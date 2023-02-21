@@ -1,0 +1,43 @@
+
+[1/5] Train Class Distribution: {0: 675, 1: 637, 2: 618, 3: 613, 4: 637, 5: 605, 6: 644, 7: 609, 8: 5463}
+[1/5] Val Class Distribution: {0: 225, 1: 213, 2: 206, 3: 204, 4: 212, 5: 202, 6: 215, 7: 203, 8: 1821}
+
+[INFO] Fold 1/5 - 20220426-161317
+	[INFO] Epoch 99/99
+	----------------
+	train loss: 0.2844 acc: 0.9007
+	val loss: 0.5755 acc: 0.8169
+
+[INFO] Training complete in 52m 41s
+[INFO] Best val Acc: 0.839760
+---------------------------------------------
+
+[INFO] Fold 2/5 - 20220426-170613
+	[INFO] Epoch 99/99
+	----------------
+	train loss: 0.2956 acc: 0.8957
+	val loss: 0.4911 acc: 0.8304
+
+  [INFO] Training complete in 52m 3s
+  [INFO] Best val Acc: 0.845517
+  ---------------------------------------------
+
+[INFO] Fold 3/5 - 20220426-175819
+	[INFO] Epoch 99/99
+	----------------
+	train loss: 0.2961 acc: 0.8920
+	val loss: 0.5464 acc: 0.8250
+
+  [INFO] Training complete in 50m 29s
+  [INFO] Best val Acc: 0.840091
+---------------------------------------------
+
+[INFO] Fold 4/5 - 20220426-184852
+	[INFO] Epoch 99/99
+	----------------
+	train loss: 0.2863 acc: 0.8965
+	val loss: 0.5510 acc: 0.8227
+
+[INFO] Training complete in 51m 12s
+[INFO] Best val Acc: 0.841850
+---------------------------------------------

@@ -1,0 +1,47 @@
+
+[INFO] Fold 1/5 - 20220426-034357
+
+[1/5] Deepweeds Train Class Distribution: {0: 675, 1: 637, 2: 618, 3: 613, 4: 637, 5: 605, 6: 644, 7: 609, 8: 5463}
+[1/5] Deepweeds Val Class Distribution: {0: 225, 1: 213, 2: 206, 3: 204, 4: 212, 5: 202, 6: 215, 7: 203, 8: 1821}
+
+	[INFO] Epoch 99/99
+	----------------
+	train loss: 0.2987 acc: 0.8940
+	val loss: 0.4935 acc: 0.8330
+
+[INFO] Training complete in 48m 54s
+[INFO] Best val Acc: 0.840948
+---------------------------------------------
+
+[INFO] Fold 3/5 - 20220426-052211
+
+	[INFO] Epoch 99/99
+	----------------
+	train loss: 0.2955 acc: 0.8963
+	val loss: 0.6271 acc: 0.7924
+
+[INFO] Training complete in 48m 53s
+[INFO] Best val Acc: 0.838378
+---------------------------------------------
+
+[INFO] Fold 4/5 - 20220426-061107
+
+	[INFO] Epoch 99/99
+	----------------
+	train loss: 0.2815 acc: 0.9021
+	val loss: 0.5291 acc: 0.8247
+
+[INFO] Training complete in 48m 29s
+[INFO] Best val Acc: 0.842706
+---------------------------------------------
+
+[INFO] Fold 5/5 - 20220426-065938
+
+	[INFO] Epoch 99/99
+	----------------
+	train loss: 0.2997 acc: 0.8902
+	val loss: 0.6317 acc: 0.8122
+
+[INFO] Training complete in 48m 33s
+[INFO] Best val Acc: 0.832429
+---------------------------------------------
